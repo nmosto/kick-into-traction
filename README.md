@@ -12,7 +12,7 @@ Some Key Features:
 * Blurriness (variance of the Laplacian filter)
 * Average RGB 
 * Dominant Colors (with K-means Clustering)
-* Size
+* Compression Size
 * Aspect Ratio
 
 
