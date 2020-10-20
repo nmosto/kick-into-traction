@@ -21,4 +21,7 @@ Coming Soon:
 * Simple Object Itenfification
 
 
+Web app found here:
+https://kit-streamlit-heroku.herokuapp.com/
+
 More information coming soon
