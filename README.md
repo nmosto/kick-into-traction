@@ -1,6 +1,6 @@
-# kick-into-traction
+# Kick-Into-Traction
 
-Kick-into-traction (KIT) is a web app that makes recommendations to users of Kickstarter's crowdsourcing platform on how to improve the likelihood of a campaign's success by optimizing features related to the images of a campaign.
+Kick-Into-traction (KIT) is a web app that makes recommendations to users of Kickstarter's crowdsourcing platform on how to improve the likelihood of a campaign's success by optimizing features related to the images of a campaign.
 
 KIT has analyzed tens of thousands of Kickstarter campaigns to try and uncover what image features differentiate successful campaigs from the unsuccessful ones. 
 
@@ -18,10 +18,10 @@ Some Key Features:
 
 Coming Soon:
 
-* Simple Object Itenfification
+* Simple Object Identification (convolutional neural networks)
 
 
 Web app found here:
 https://kit-streamlit-heroku.herokuapp.com/
 
-More information coming soon
+More information coming soon!
